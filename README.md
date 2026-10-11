@@ -6,8 +6,8 @@ Büyükbabasının sahafını devralan bir genç, bodrumdaki kütüphanede edebi
 
 ## Oyna
 
-- **Çevrimiçi:** GitHub Pages bağlantısı (Settings → Pages açıldıktan sonra): `https://<kullanıcı-adı>.github.io/<depo-adı>/`
-- **İndir:** [Releases](../../releases) sayfasından `zamansiz-kutuphane.zip` dosyasını indir, aç ve `index.html`'e çift tıkla. İnternet gerekmez.
+- **Çevrimiçi:** https://ismaybek.github.io/zamansiz-kutuphane/
+- **İndir:** [**zamansiz-kutuphane.zip**](https://github.com/ismaybek/zamansiz-kutuphane/raw/main/zamansiz-kutuphane.zip) dosyasını indir, aç ve `index.html`'e çift tıkla. İnternet gerekmez.
 - **Telefona kur:** Pages bağlantısını telefonda aç → tarayıcı menüsünden **"Ana ekrana ekle"**. Uygulama gibi açılır, bir kez açıldıktan sonra çevrimdışı da çalışır.
 
 ## İçerik
@@ -27,3 +27,4 @@ Büyükbabasının sahafını devralan bir genç, bodrumdaki kütüphanede edebi
 | `index.html` | Oyunun tamamı (tek dosya) |
 | `manifest.webmanifest`, `icon.svg` | Telefona uygulama olarak kurulum |
 | `sw.js` | Çevrimdışı çalışma |
+| `zamansiz-kutuphane.zip` | İndirilebilir paket |
